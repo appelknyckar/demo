@@ -7,3 +7,5 @@ Some more text
 I hope this is OK
 
 Some updates for updates branch
+
+Change something
